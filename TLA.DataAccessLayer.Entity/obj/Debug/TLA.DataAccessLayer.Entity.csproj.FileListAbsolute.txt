@@ -1,0 +1,16 @@
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\TLA.DataAccessLayer.Entity.dll.config
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\TLA.DataAccessLayer.Entity.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\TLA.DataAccessLayer.Entity.pdb
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.csprojAssemblyReference.cache
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.Migrations.MyFirstMigration.resources
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.csproj.GenerateResource.cache
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.csproj.CopyComplete
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.dll
+C:\Users\Maxim\Documents\GitHub\MyRepository\TLA.DataAccessLayer.Entity\obj\Debug\TLA.DataAccessLayer.Entity.pdb
