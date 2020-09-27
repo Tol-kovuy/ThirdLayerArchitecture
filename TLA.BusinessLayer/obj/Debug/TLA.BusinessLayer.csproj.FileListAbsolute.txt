@@ -1,0 +1,17 @@
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.BusinessLayer.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.BusinessLayer.pdb
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\obj\Debug\TLA.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\obj\Debug\TLA.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\obj\Debug\TLA.BusinessLayer.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\obj\Debug\TLA.BusinessLayer.pdb
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.BusinessLayer.dll.config
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.DataAccessLayer.Entity.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.DataAccessLayer.Entity.pdb
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\TLA.DataAccessLayer.Entity.dll.config
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Maxim\source\repos\ThirdLayerArchitecture\TLA.BusinessLayer\obj\Debug\TLA.BusinessLayer.csproj.CopyComplete
